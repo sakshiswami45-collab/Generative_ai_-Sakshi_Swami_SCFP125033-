@@ -1,0 +1,9 @@
+Test ID,Scenario,Result,Details
+TC01,Display all laboratory tests,PASS,4 tests retrieved
+TC02,Check CBC appointment slots,PASS,3 available slots found
+TC03,View Rahul's bookings,PASS,Rahul: 2 bookings retrieved; database contains 2 bookings.
+TC04,View Priya's bookings,PASS,User-specific booking query executed
+TC05,Search laboratory information,PASS,Laboratory information retrieved successfully.
+TC06,Reject appointment booking,PASS,Booking rejected. No changes made.
+TC07,Approve appointment booking,PASS,Booking successful! Booking ID: 7
+TC08,Cancel appointment,PASS,Booking 7 cancelled successfully!
